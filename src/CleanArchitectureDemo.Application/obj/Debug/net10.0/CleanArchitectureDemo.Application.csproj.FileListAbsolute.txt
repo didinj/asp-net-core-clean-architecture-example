@@ -1,0 +1,15 @@
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/bin/Debug/net10.0/CleanArchitectureDemo.Application.deps.json
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/bin/Debug/net10.0/CleanArchitectureDemo.Application.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/bin/Debug/net10.0/CleanArchitectureDemo.Application.pdb
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/bin/Debug/net10.0/CleanArchitectureDemo.Domain.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/bin/Debug/net10.0/CleanArchitectureDemo.Domain.pdb
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/CleanArchitectureDemo.Application.csproj.AssemblyReference.cache
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/CleanArchitectureDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/CleanArchitectureDemo.Application.AssemblyInfoInputs.cache
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/CleanArchitectureDemo.Application.AssemblyInfo.cs
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/CleanArchitectureDemo.Application.csproj.CoreCompileInputs.cache
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/CleanArc.B82A0A37.Up2Date
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/CleanArchitectureDemo.Application.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/refint/CleanArchitectureDemo.Application.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/CleanArchitectureDemo.Application.pdb
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Application/obj/Debug/net10.0/ref/CleanArchitectureDemo.Application.dll

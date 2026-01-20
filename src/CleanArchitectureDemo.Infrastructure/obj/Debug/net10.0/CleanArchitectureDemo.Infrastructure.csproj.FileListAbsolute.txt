@@ -1,0 +1,17 @@
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/bin/Debug/net10.0/CleanArchitectureDemo.Infrastructure.deps.json
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/bin/Debug/net10.0/CleanArchitectureDemo.Infrastructure.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/bin/Debug/net10.0/CleanArchitectureDemo.Infrastructure.pdb
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/bin/Debug/net10.0/CleanArchitectureDemo.Application.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/bin/Debug/net10.0/CleanArchitectureDemo.Domain.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/bin/Debug/net10.0/CleanArchitectureDemo.Application.pdb
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/bin/Debug/net10.0/CleanArchitectureDemo.Domain.pdb
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/CleanArchitectureDemo.Infrastructure.csproj.AssemblyReference.cache
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/CleanArchitectureDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/CleanArchitectureDemo.Infrastructure.AssemblyInfoInputs.cache
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/CleanArchitectureDemo.Infrastructure.AssemblyInfo.cs
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/CleanArchitectureDemo.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/CleanArc.C65C406C.Up2Date
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/CleanArchitectureDemo.Infrastructure.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/refint/CleanArchitectureDemo.Infrastructure.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/CleanArchitectureDemo.Infrastructure.pdb
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Infrastructure/obj/Debug/net10.0/ref/CleanArchitectureDemo.Infrastructure.dll

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CleanArchitectureDemo.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CleanArchitectureDemo.Application": "1.0.0",
+          "CleanArchitectureDemo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitectureDemo.Infrastructure.dll": {}
+        }
+      },
+      "CleanArchitectureDemo.Application/1.0.0": {
+        "dependencies": {
+          "CleanArchitectureDemo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitectureDemo.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CleanArchitectureDemo.Domain/1.0.0": {
+        "runtime": {
+          "CleanArchitectureDemo.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchitectureDemo.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitectureDemo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitectureDemo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

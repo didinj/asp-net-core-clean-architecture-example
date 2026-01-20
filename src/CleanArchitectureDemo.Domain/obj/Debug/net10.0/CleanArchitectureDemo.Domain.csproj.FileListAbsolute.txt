@@ -1,0 +1,11 @@
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/bin/Debug/net10.0/CleanArchitectureDemo.Domain.deps.json
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/bin/Debug/net10.0/CleanArchitectureDemo.Domain.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/bin/Debug/net10.0/CleanArchitectureDemo.Domain.pdb
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/obj/Debug/net10.0/CleanArchitectureDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/obj/Debug/net10.0/CleanArchitectureDemo.Domain.AssemblyInfoInputs.cache
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/obj/Debug/net10.0/CleanArchitectureDemo.Domain.AssemblyInfo.cs
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/obj/Debug/net10.0/CleanArchitectureDemo.Domain.csproj.CoreCompileInputs.cache
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/obj/Debug/net10.0/CleanArchitectureDemo.Domain.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/obj/Debug/net10.0/refint/CleanArchitectureDemo.Domain.dll
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/obj/Debug/net10.0/CleanArchitectureDemo.Domain.pdb
+/Users/didin/ASPNETProjects/CleanArchitectureDemo/src/CleanArchitectureDemo.Domain/obj/Debug/net10.0/ref/CleanArchitectureDemo.Domain.dll
